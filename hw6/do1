@@ -1,0 +1,4 @@
+cirr sim01.aag
+cirp -n
+cirr sim02.aag
+

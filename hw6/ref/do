@@ -1,0 +1,11 @@
+cirr sim01.aag
+cirp -n
+cirr sim02.aag -r
+cirp -n
+cirr sim03.aag -r
+cirp -n
+cirr sim04.aag -r
+cirp -n
+cirr sim05.aag -r
+cirp -n
+q -f
